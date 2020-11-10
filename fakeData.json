@@ -1,0 +1,50 @@
+{
+    "tournaments":[
+    {
+    "tournamentId":"1",
+    "tournamentName":"League of legends tournament",
+    "game":"League of Legends",
+    "image":"https://estnn.com/wp-content/uploads/2020/01/league-of-legends-header-x.jpg",
+    "participants":"10",
+    "startDate":"06.11.2020",
+    "started":false
+},
+{
+    "tournamentId":"2",
+    "tournamentName":"Warzone tournament",
+    "game":"COD Warzone",
+    "image":"https://cdn-wp.thesportsrush.com/2020/09/cod-warzopne.jpg",
+    "participants":"20",
+    "startDate":"07.11.2020",
+    "started":true
+},
+{
+    "tournamentId":"3",
+    "tournamentName":"League of legends tournament mai nou",
+    "game":"League of Legends",
+    "image":"https://estnn.com/wp-content/uploads/2020/01/league-of-legends-header-x.jpg",
+    "participants":"30",
+    "startDate":"07.11.2020",
+    "started":false
+},
+
+{
+    "tournamentId":"4",
+    "tournamentName":"League of legends tournament mai altfel",
+    "game":"League of Legends",
+    "image":"https://estnn.com/wp-content/uploads/2020/01/league-of-legends-header-x.jpg",
+    "participants":"11",
+    "startDate":"08.11.2020",
+    "started":false
+},
+
+{
+    "tournamentId":"5",
+    "tournamentName":"League of legends tournament de ceva",
+    "game":"League of Legends",
+    "image":"https://estnn.com/wp-content/uploads/2020/01/league-of-legends-header-x.jpg",
+    "participants":"9",
+    "startDate":"10.11.2020",
+    "started":false
+}
+    ]}
