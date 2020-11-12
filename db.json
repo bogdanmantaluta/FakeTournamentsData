@@ -46,5 +46,14 @@
     "participants":"9",
     "startDate":"10.11.2020",
     "started":false
-}
+},
+{
+    "tournamentId":"6",
+    "tournamentName":"League of legends ultimul",
+    "game":"League of Legends",
+    "image":"https://estnn.com/wp-content/uploads/2020/01/league-of-legends-header-x.jpg",
+    "participants":"11",
+    "startDate":"08.11.2020",
+    "started":false
+},
     ]}
